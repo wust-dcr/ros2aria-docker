@@ -1,0 +1,6 @@
+services:
+  ros2aria:
+   build: ..
+   devices:
+    - /dev/ttyS0
+   command:  ros2 run ros2aria ros2aria
