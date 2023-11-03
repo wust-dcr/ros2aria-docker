@@ -2,8 +2,8 @@
 Dockerized [ros2aria](https://github.com/wust-dcr/ros2aria) available in ROS 2 Huble.
 
 
-|   s     | ROS 2 Package | Docker |
+|        | ROS 2 Package | Docker |
 |---|---|---|
-| Status |     ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)          |      ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)  |
+| Status |     ![Industrial CI](https://github.com/wust-dcr/ros2aria/actions/workflows/industrial_ci.yaml/badge.svg)          |      ![Docker image](https://github.com/wust-dcr/ros2aria-docker/actions/workflows/docker-build.yaml/badge.svg)  |
 
 
