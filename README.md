@@ -1,5 +1,5 @@
 # ros2aria-docker
-Dockerized [ros2aria](https://github.com/wust-dcr/ros2aria) available in ROS 2 Huble.
+Dockerized [ros2aria](https://github.com/wust-dcr/ros2aria) available in ROS 2 Humble.
 
 
 |        | ROS 2 Package | Docker |
